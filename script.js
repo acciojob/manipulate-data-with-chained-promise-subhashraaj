@@ -1,5 +1,5 @@
 function oddNumber(){
-    const arr = [1, 3, 4, 8];
+    const arr = [1, 2, 3, 4, 8];
     let oddArr= [];
     //console.log(arr)
     return new Promise((resolve, reject)=>{
